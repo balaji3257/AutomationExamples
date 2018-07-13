@@ -1,0 +1,115 @@
+PaymentType,CardType,CardNumber,NameOnCard,CreditCardID,ExpirationMonth,ExpirationYear,PinNo
+MasterCard,Master Card,5.44401E+15,TestCard,222,February,2018,
+VisaCard,Visa,4.44522E+15,TestCard,7,January,2018,
+VisaCardEdit,Visa,4.44522E+15,TestCard,7,December,2019,
+AmericanExpressCard,American Express,3.78289E+14,TestCard,1234,December,2018,
+DiscoverCard,Discover Network,6.01111E+15,TestCard,111,December,2018,
+KohlsChargeCard,Kohls Charge,1E+12,TestCard,,,,
+TemporaryKohlsChargeCard,Kohls Charge,81193842299,TestCard,747,,,
+IncompleteKohlsChargeCard,Kohls Charge,811938422,TestCard,747,,,
+IncorrectCVVKCC,Kohls Charge,11193842201,TestCard,0,,,
+PendingKohlsCash,,,,,,,4497
+KCCMcard,Kohls Charge,32367630401,TestCard,19930904,September,1993,3356
+KCCMcard1,Kohls Charge,32359451503,TestCard,19591014,October,1959,594
+KCCMRevokedcard,Kohls Charge,17443113001,TestCard,19650101,January,1965,6482
+KCCMAuthprohibitedAcc,Kohls Charge,42690709301,TestCard,19570402,April,1957,2121
+KCCMBankruptAcc,Kohls Charge,30894533601,TestCard,19931228,December,1993,9050
+KCCMStolenAcc,Kohls Charge,27439788411,TestCard,19551228,December,1955,622
+KCCMChargedoffAcc,Kohls Charge,17047873903,TestCard,19720131,January,1972,153
+KCCMBlank,Kohls Charge,85001118001,TestCard,19290101,January,1929,3849
+KCCPromoCode,,,,,,,
+AvailableKohlsCash1,,,,,,,9432
+ExpiredOmniOffer,,,,,,,
+PendingPromoCode,,,,,,,
+SharePromoCode,,,,,,,
+PendingSUPC,,,,,,,
+KohlsCash,,,,,,,9887
+WalletKohlsChargeCard,Kohls Charge,29424560027,TestCard,747,December,1945,348
+WalletKohlsChargeCardSecond,Kohls Charge,18680209615,TestCard,747,August,1945,503
+GiftCard,,1000000420,,,,,123
+GiftCard1,,1000000404,,,,,123
+GiftCard2,,1000000099,,,,,123
+GiftCard3,,1000000339,,,,,123
+PromoCode,,,,,,,
+PromoCode1,,,,,,,
+PromoCode2,,,,,,,
+PromoCode3,,,,,,,
+PromoCode4,,,,,,,
+PromoCode5,,,,,,,
+InstorePromocode,,,,,,,
+OrderSummaryPromocode,,,,,,,
+PercentageOFFPromoCode,,,,,,,
+DollarOFFPromoCode,,,,,,,
+FreeShippingPromoCode,,,,,,,
+LIDPromoCode,,,,,,,
+SUPCPromoCodeiOS,,,,,,,
+SUPCPromoCodeAndroid,,,,,,,
+SUPCPromoCodeiOS1,,,,,,,
+SUPCPromoCodeAndroid1,,,,,,,
+SurchargePromoCode,,,,,,,
+TenderTypePromoCode,,,,,,,
+SharePromoCode,,,,,,,
+PricePointPromoCode,,,,,,,
+WalletGiftCard,,,1254,,,,6455
+WalletGiftCard1,,,1254,,,,7016
+WalletKohlsCash,,,,,,,7248
+InvalidGiftCard,,1000000420,,,,,1234
+InvalidKohlsCash,,,,,,,9884
+ExpiredKohlsCash,,,,,,,7243
+ExpiredPromoCode,,,,,,,
+RedeemedKohlsCash,,,,,,,8039
+RedeemedKohlsCash1,,,,,,,7248
+RedeemedPromoCode,,,,,,,
+WalletSUPCPromoCode,,,,,,,
+ExpiredSUPCPromoCode,,,,,,,
+ValidSUPCPromoCode,,,,,,,
+ValidSUPCPromoCode1,,,,,,,
+PermenantKohlsChargeCard,Kohls Charge,69746825407,TestCard,296,,,
+TemporaryKohlsChargeCard,Kohls Charge,69746825499,TestCard,296,,,
+PhysicalGiftCard,,6.39305E+18,,,,,5972
+VirtualKohlsCaresGiftCard,,6.39305E+18,,,,,9754
+KohlsMerchandiseCredit,,6.39305E+18,,,,,3936
+VirtualGiftCard,,6.39305E+18,,,,,1992
+KohlsCareGiftCard,,6.39305E+18,,,,,5238
+KMRCGiftCard,,,,,,,8149
+RewardsKohlsCash,,,,,,,9285
+ExpiredGraceOneWeek,,,,,,,
+ExpiredStoreOffer,,,,,,,
+InvalidSUPCOffer,,,,,,,
+Barcode,,,,,,,
+RedeemedOmniSUPC,,,,,,,
+AvailableOmniSUPC,,,,,,,
+PendingOmniSUPC,,,,,,,
+OneDayOmniSUPC,,,,,,,
+AvailableOmniOffer,,,,,,,9537
+StoreOffer,,,,,,,
+StoreOnlySUPC,,,,,,,
+StorePending,,,,,,,
+StoreOneday,,,,,,,
+StorePendingSUPC,,,,,,,
+StoreOnedaySUPC,,,,,,,
+PromoCode7,,,,,,,
+ValidSUPCPromo,,,,,,,
+PromoCode12,,,,,,,
+PromoCode13,,,,,,,
+LongDayPromoCode1,,,,,,,
+ShortDayPromoCode1,,,,,,,
+PromoCode21,,,,,,,
+PromoCode22,,,,,,,
+ExpiredPromoCode22,,,,,,,
+OneDayPromoCode1,,,,,,,
+ShortDaySUPC1,,,,,,,
+OneDaySUPC1,,,,,,,
+LongDaySUPC1,,,,,,,
+InvalidPin,,,,,,,0
+ExpiredKohlsCashWithinGrace,,,,,,,5967
+GiftCard6,,6.39305E+18,,,,,3718
+InvalidDigitalKC,,,,,,,9131
+ExpiredDigitalKC,,,,,,,9285
+InvalidPinDigitalKC,,,,,,,1234
+PendingDigitalKC,,,,,,,6646
+RedeemedDigitalKC,,,,,,,4630
+RedeemedGraceDKC,,,,,,,4630
+ExpiredGraceDKC,,,,,,,7269
+RedeemedSUPCPromoCode,,,,,,,
+KohlsMerchandiseCredit1,,2.11663E+13,,,,,202
