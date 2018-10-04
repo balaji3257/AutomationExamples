@@ -18,6 +18,10 @@
 	<classpathentry kind="src" path="LogWithOutPropFile"/>
 	<classpathentry kind="src" path="AllureReport"/>
 	<classpathentry kind="src" path="DataGenerator"/>
+	<classpathentry kind="src" path="JSReturn"/>
+	<classpathentry kind="src" path="apache_poi"/>
+	<classpathentry kind="src" path="GoogleSheetApi"/>
+	<classpathentry kind="src" path="JET_Automation"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
